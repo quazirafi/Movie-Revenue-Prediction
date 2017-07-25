@@ -1,0 +1,9 @@
+body {
+  overflow-y: hidden;
+}
+#notebook #notebook-container.container {
+  box-shadow: none;
+  padding: 0;
+  -webkid-box-shadow: none;
+  width: 100%;
+}
