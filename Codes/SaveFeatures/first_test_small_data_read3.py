@@ -280,6 +280,8 @@ print(float(count)/float(len(predicted)))
 scores = cross_val_score(logreg_model, totalMatrix, gross, cv=5)
 print(scores)
 print("now")
+print(max(gross))
+print(min(gross))
 from sklearn.cross_validation import train_test_split
 for i in range(5):
     x_train, x_test, y_train, y_test = train_test_split(totalMatrix, gross, test_size=0.3)
