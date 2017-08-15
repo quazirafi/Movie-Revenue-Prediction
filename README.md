@@ -2,9 +2,9 @@
 
 This is our Machine Learning Project. The task was to predict movie revenue using some machine learning algorithms.
 
-The report can be found in [here](https://github.com/saumiko/Movie-Revenue-Prediction/Report.pdf).
+The report can be found in [here](https://github.com/saumiko/Movie-Revenue-Prediction/blob/master/Report.pdf).
 
-The Main Python Script can be found in [here](https://github.com/saumiko/Movie-Revenue-Prediction/Codes/SaveFeatures/Final.py).
+The Main Python Script can be found in [here](https://github.com/saumiko/Movie-Revenue-Prediction/blob/master/Codes/SaveFeatures/Final.py).
 
 ### Algorithms used
 - SVM (RBF)
